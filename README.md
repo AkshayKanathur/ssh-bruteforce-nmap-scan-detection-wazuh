@@ -1,4 +1,4 @@
-## Detecting nmap scans and bruteforce attempts
+## Detecting nmap scans and bruteforce attempts using Wazuh and Suricata
 This project simulates detecting nmap scan, and ssh bruteforce using wazuh and suricata.
 ## Tools Used
 - Wazuh agent and manager
