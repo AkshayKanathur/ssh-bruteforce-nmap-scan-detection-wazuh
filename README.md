@@ -17,7 +17,6 @@ This project simulates detecting nmap scan, and ssh bruteforce using wazuh and s
 - Attacker cannot do nmap scan, bruteforce, etc... anymore.
 ## Screenshots
 ![1760337040084](https://github.com/user-attachments/assets/c8047e7e-d763-4437-a9c9-94b5409f2d8a)
-![1760337013050](https://github.com/user-attachments/assets/9184682a-d1d8-4799-a9bb-3e926590f256)
 ![1760337008823](https://github.com/user-attachments/assets/da645e93-b08c-4dc2-96f4-17da791f9935)
 ![1760337005798](https://github.com/user-attachments/assets/c6f81276-a431-4dba-9f5e-c232f9e03289)
 ![1760337048512](https://github.com/user-attachments/assets/b783e06e-a17e-4290-abe2-f8ca75efa0fb)
